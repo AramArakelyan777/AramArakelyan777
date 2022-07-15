@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AramArakelyan777
+- 👋 Hi, I’m @AramArakelyan
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Google
