@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AramArakelyan777
-- 👀 I’m interested in soccer
+- 👀 I’m interested in football
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me. by email
