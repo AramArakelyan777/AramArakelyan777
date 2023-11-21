@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Aram Arakelyan
 
-## Junior Frontend Developer | Learning React | Python Enthusiast
+## Junior Frontend Developer | Python Enthusiast
 
 👋 Hello, I'm Aram Arakelyan, a junior frontend developer passionate about creating delightful user experiences. I'm currently focused on learning React and expanding my skills in software development with Python.
 
