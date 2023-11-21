@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Skills
 
-- **Languages:** Python, HTML/CSS/JS, React, C#
+- **Languages:** Python, HTML/CSS/Bootstrap/JS, React, C#
 - **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office
 - **Databases:** MySQL, PostgreSQL
 
