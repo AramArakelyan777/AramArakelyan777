@@ -6,29 +6,31 @@ You can click the Preview link to take a look at your changes.
 
 ## Junior Frontend Developer | Python Enthusiast
 
-👋 Hello, I'm Aram Arakelyan, a junior frontend developer passionate about creating delightful user experiences. I'm currently focused on learning React and expanding my skills in software development with Python.
+👋 Hello, I'm Aram Arakelyan, a junior frontend developer passionate about creating delightful websites. I'm currently focused on learning React and expanding my skills in software development with Python.
 
 ### Skills
 
-- **Languages:** Python, HTML/CSS/Bootstrap/JS, React, C#
+- **Languages:** Python, HTML/CSS, JavaScript, C#
 - **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office
-- **Databases:** MySQL, PostgreSQL
+- **Frameworks:** ReactJS, Bootstrap
+- **Databases:** NoSQL, PostgreSQL
 
 ### Projects
 
-#### WeatherAnywhere Bot (Python)
-- A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
+#### Python
+- WeatherAnywhere telegram bot
+  - A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
 
-#### React JS Projects
-1. **QuizApp**
+#### React JS
+- **QuizApp**
    - Description: A React app for interactive quizzes.
    - [Link to Repo](https://github.com/AramArakelyan777/react-quiz)
 
-2. **CountryInfoApp**
+- **CountryInfoApp**
    - Description: Explore information about countries using this React app.
    - [Link to Repo](https://github.com/AramArakelyan777/country-info-app)
 
-3. **TodoApp**
+- **TodoApp**
    - Description: A simple React-based todo list application.
    - [Link to Repo](https://github.com/AramArakelyan777/todos-app)
 
