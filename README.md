@@ -18,19 +18,19 @@ You can click the Preview link to take a look at your changes.
 ### Projects
 
 #### Python
-- WeatherAnywhere telegram bot
+1. WeatherAnywhere telegram bot
   - A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
 
 #### React JS
-- **QuizApp**
+1. **QuizApp**
    - Description: A React app for interactive quizzes.
    - [Link to Repo](https://github.com/AramArakelyan777/react-quiz)
 
-- **CountryInfoApp**
+2. **CountryInfoApp**
    - Description: Explore information about countries using this React app.
    - [Link to Repo](https://github.com/AramArakelyan777/country-info-app)
 
-- **TodoApp**
+3. **TodoApp**
    - Description: A simple React-based todo list application.
    - [Link to Repo](https://github.com/AramArakelyan777/todos-app)
 
