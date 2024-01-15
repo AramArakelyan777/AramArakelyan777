@@ -26,11 +26,15 @@ You can click the Preview link to take a look at your changes.
    - Description: A React app for interactive quizzes.
    - [Link to Repo](https://github.com/AramArakelyan777/react-quiz)
 
-2. **CountryInfoApp**
+2. **E-Commerce App**
+   - Description: A Mini Shop App using React.
+   - [Link to Repo](https://github.com/AramArakelyan777/react-shop-app)
+
+4. **CountryInfoApp**
    - Description: Explore information about countries using this React app.
    - [Link to Repo](https://github.com/AramArakelyan777/country-info-app)
 
-3. **TodoApp**
+5. **TodoApp**
    - Description: A simple React-based todo list application.
    - [Link to Repo](https://github.com/AramArakelyan777/todos-app)
 
