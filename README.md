@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 ### Projects
 
 #### Python
-1. WeatherAnywhere telegram bot
+1. WeatherAnywhere Telegram Bot
    - A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
 
 #### React JS
