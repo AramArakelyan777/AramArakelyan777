@@ -22,11 +22,15 @@ You can click the Preview link to take a look at your changes.
    - A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
 
 #### React JS
-1. **QuizApp**
+1. **Expense Tracker App**
+   - Description: An app which allows its users to track their income and expenses.
+   - [Link to Repo](https://github.com/AramArakelyan777/expense-tracker-app)
+     
+2. **QuizApp**
    - Description: A React app for interactive quizzes.
    - [Link to Repo](https://github.com/AramArakelyan777/react-quiz)
 
-2. **E-Commerce App**
+3. **E-Commerce App**
    - Description: A Mini Shop App using React.
    - [Link to Repo](https://github.com/AramArakelyan777/react-shop-app)
 
