@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ### Skills
 
 - **Languages:** Python, HTML/CSS, JavaScript, C#
-- **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office
+- **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office, Figma
 - **Frameworks:** ReactJS, Bootstrap
 - **Databases:** NoSQL, PostgreSQL
 
