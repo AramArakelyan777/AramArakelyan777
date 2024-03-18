@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - **Frameworks:** ReactJS, Bootstrap
 - **Databases:** NoSQL, PostgreSQL
 
-### Projects
+### Major Projects
 
 #### Python
 1. WeatherAnywhere Telegram Bot
