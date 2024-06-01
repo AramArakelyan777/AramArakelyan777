@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 #### React JS
 1. **ComicStack**
-   - Description: A web app for reading, discussing, and playing mini quiz games related to comics and mangas.
+   - Description: A web app for reading, discussing, and rating comics and mangas.
    - [Link to Repo](https://github.com/AramArakelyan777/comicstack-app)
      
 2. **Expense Tracker App**
