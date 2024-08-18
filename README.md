@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Skills
 
-- **Languages:** Python, HTML/CSS, JavaScript, C#
+- **Languages:** Python, HTML/CSS, JavaScript (Node.js), C#
 - **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office, Figma
 - **Frameworks:** ReactJS, Bootstrap
 - **Databases:** NoSQL, PostgreSQL
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 #### React JS
 1. **ComicStack**
-   - Description: A web app for reading, discussing, and rating comics and mangas.
+   - Description: A fullstack web app for reading, discussing, and rating comics and mangas.
    - [Link to Repo](https://github.com/AramArakelyan777/comicstack-app)
      
 2. **Expense Tracker App**
@@ -34,10 +34,6 @@ You can click the Preview link to take a look at your changes.
    - Description: A React app for interactive quizzes.
    - [Link to Repo](https://github.com/AramArakelyan777/react-quiz)
 
-4. **E-Commerce App**
-   - Description: A Mini Shop App using React.
-   - [Link to Repo](https://github.com/AramArakelyan777/react-shop-app)
-
 ### Contact
 
 - 📧 Email: aram777arakelyan@gmail.com
@@ -45,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-I am a continuous learner passionate about creating clean and efficient code. Currently exploring the vast world of React and honing my Python skills. Connect with me, and let's learn and grow together!
+I am a continuous learner passionate about creating clean and efficient code. Currently exploring the vast world of React and honing my Python skills.
