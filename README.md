@@ -6,14 +6,14 @@ You can click the Preview link to take a look at your changes.
 
 ## Junior Web Developer | Python Enthusiast
 
-👋 Hello, I'm Aram Arakelyan, a junior frontend developer passionate about creating delightful websites. I'm currently focused on learning React and expanding my skills in software development with Python.
+👋 Hello, I'm Aram Arakelyan, a junior web developer passionate about creating delightful websites. I'm currently focused on expanding my skills in software development with Python.
 
 ### Skills
 
 - **Languages:** Python, HTML/CSS, JavaScript (Node.js), C#
 - **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office, Figma
 - **Frameworks:** ReactJS, Bootstrap
-- **Databases:** NoSQL, PostgreSQL
+- **Databases:** PostgreSQL, MySQL
 
 ### Major Projects
 
@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 1. WeatherAnywhere Telegram Bot
    - A weather bot written in Python that provides real-time weather updates. [Check it out](https://github.com/AramArakelyan777/weather-telegram-bot)
 
-#### React JS
+#### Web Development
 1. **ComicStack**
    - Description: A fullstack web app for reading, discussing, and rating comics and mangas.
    - [Link to Repo](https://github.com/AramArakelyan777/comicstack-app)
