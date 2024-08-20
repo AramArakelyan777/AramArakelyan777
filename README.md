@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office, Figma
 - **Frameworks:** ReactJS, Bootstrap
 - **Databases:** PostgreSQL, MySQL
+- **Cloud Platforms** Google Cloud, AWS
 
 ### Major Projects
 
