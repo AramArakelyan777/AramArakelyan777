@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 ### Skills
 
 - **Languages:** Python, HTML/CSS, JavaScript (Node.js), C#
-- **Tools:** Git/GitHub, Adobe Photoshop, Microsoft Office, Figma
-- **Frameworks:** ReactJS, Bootstrap
+- **Tools:** Git/GitHub, Microsoft Office, Figma
+- **Frameworks:** ReactJS, Aiogram
 - **Databases:** PostgreSQL, MySQL
-- **Cloud Platforms:** Google Cloud, AWS
+- **Cloud Platforms:** Familiar with GCP and AWS
 
 ### Major Projects
 
