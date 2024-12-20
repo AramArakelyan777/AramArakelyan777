@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Skills
 
-- **Languages:** Python, HTML/CSS, JavaScript (Node.js), C#
+- **Languages:** Python, HTML/CSS, JavaScript (Node.js)
 - **Tools:** Git/GitHub, Microsoft Office, Figma
 - **Frameworks:** ReactJS, Aiogram
 - **Databases:** PostgreSQL, MySQL
 - **Cloud Platforms:** Familiar with GCP and AWS
 
-### Major Projects
+### Projects
 
 #### Python
 1. WeatherAnywhere Telegram Bot
@@ -42,4 +42,4 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me
 
-I am a continuous learner passionate about creating clean and efficient code. Currently exploring the vast world of React and honing my Python skills.
+I am a continuous learner passionate about creating clean and efficient code. Currently exploring the vast world of Python and looking for an internship to start a career.
