@@ -4,15 +4,15 @@ You can click the Preview link to take a look at your changes.
 --->
 # Aram Arakelyan
 
-## Junior Web Developer | Python Enthusiast
+## Entry-level web developer | Python enthusiast
 
-👋 Hello, I'm Aram Arakelyan, a junior web developer passionate about creating delightful websites. I'm currently focused on expanding my skills in software development with Python.
+👋 Hello, I'm Aram Arakelyan, an entry-level web developer interested in creating websites. I'm also focused on expanding my skills in software development with Python.
 
 ### Skills
 
-- **Languages:** Python, HTML/CSS, JavaScript (Node.js)
+- **Languages:** Python, HTML/CSS, JavaScript
 - **Tools:** Git/GitHub, Microsoft Office, Figma
-- **Frameworks:** ReactJS, Aiogram
+- **Frameworks:** ReactJS, familiar with Aiogram
 - **Databases:** PostgreSQL, MySQL
 - **Cloud Platforms:** Familiar with GCP and AWS
 
