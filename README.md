@@ -25,7 +25,7 @@ I am an aspiring **Fullstack Web Developer** with a passion for continuous self-
 ---
 
 ## 🌟 Notable Projects
-### **📖 ComicStack – A Website for Comics & Manga Lovers**
+### **📖 [ComicStack](https://github.com/AramArakelyan777/comicstack-app) – A Website for Comics & Manga Lovers**
 A comprehensive **web application** designed for comic and manga enthusiasts. Users can read comics, engage in discussions, rate comics, and more. It features a **beautiful, responsive interface** for a seamless experience.
 
 🔹 **Key Features:**
@@ -37,7 +37,7 @@ A comprehensive **web application** designed for comic and manga enthusiasts. Us
 
 ---
 
-### **🌦 WeatherAnywhere – A Python Telegram Bot**
+### **🌦 [WeatherAnywhere](https://github.com/AramArakelyan777/weather-telegram-bot) – A Python Telegram Bot**
 A Python-based **Telegram bot** that provides users with **real-time weather updates** and personalized recommendations based on their location. It uses a **PostgreSQL database** to store user data and offers **location name suggestions** in case of incorrect input.
 
 🔹 **Key Features:**
