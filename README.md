@@ -1,25 +1,24 @@
 # Hi there, I'm Aram Arakelyan!
 
-### Entry-Level Web Developer
+### Junior Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aram-arakelyan-632227282/)
 
 ---
 
 ## 🚀 About Me
-I am an aspiring **Fullstack Web Developer** with a passion for continuous self-improvement and problem-solving. What sets me apart is my ability to **self-teach**, as I have acquired essential programming skills on my own. I thrive both **independently** and as part of a **team**, and I am always eager to learn from experienced professionals. Currently, I am a university student pursuing a degree in **Information Systems** and an intern gaining real-world experience. My goal is to deepen my knowledge in **backend development**.
+I am an aspiring **Fullstack Web Developer** with a passion for continuous self-improvement and problem-solving. What sets me apart is my ability to **self-teach**, as I have acquired essential programming skills on my own. I thrive both **independently** and as part of a **team**, and I am always eager to learn from experienced professionals. Currently, I am a university student pursuing a degree in **Information Systems** and I am looking for a place where I can bring my values and skills. My goal is to become a professional **fullstack** or **backend developer**.
 
 ---
 
 ## 🛠️ Tech Stack
-- **Programming Languages:** Python, JavaScript, C#
-- **Frontend:** HTML, CSS, React (Intermediate)
-- **Backend:** Familiar with Node.js, API integration
+- **Programming Languages & Markup:** Python, JavaScript (Node.js), HTML, CSS
+- **Frameworks:** React (Intermediate), Aiogram, familiar with Express
 - **Databases:** PostgreSQL, MySQL
-- **Version Control:** Git, GitHub
+- **VCS:** Git, GitHub
 - **Cloud Platforms:** Familiar with GCP & AWS
 - **Other Tools:** Microsoft Office, Figma
-- **Soft Skills:** Teamwork, Communication, Self-learning, Research & Documentation
+- **Soft Skills:** Teamwork, Communication, Self-learning, Research, Problem-solving, Patience
 - **Languages:** Armenian (Native), English (B2+), Russian (B2+)
 
 ---
