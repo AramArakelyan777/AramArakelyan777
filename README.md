@@ -25,7 +25,7 @@ I am an aspiring **Fullstack Web Developer** with a passion for continuous self-
 
 ## 🌟 Notable Projects
 ### **📖 [ComicStack](https://github.com/AramArakelyan777/comicstack-app) – A Website for Comics & Manga Lovers**
-A comprehensive **web application** designed for comic and manga enthusiasts. Users can read comics, engage in discussions, rate comics, and more. It features a **beautiful, responsive interface** for a seamless experience.
+A comprehensive **web application** designed for comic and manga enthusiasts. Users can read comics, engage in discussions, rate comics, and more. It features a **beautiful, responsive interface** for a seamless experience. Check how it works - https://www.youtube.com/watch?v=37Bf35VhExs
 
 🔹 **Key Features:**
 - A **platform for reading comics and manga** 📚
