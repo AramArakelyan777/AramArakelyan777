@@ -1,6 +1,6 @@
-## Aram Arakelyan
+## Aram Arakelyan's GitHub Profile
 
-Hi there, my name is [Aram](https://www.linkedin.com/in/aram-arakelyan-632227282/), and I am a software engineer from Yerevan, Armenia. Currently, I am a university student who continuously self-improves his skills. The most knowledge and skills I have now are in front-end web development. Check my repositories - contributions, issues, and feature requests are welcome! Feel free to open a pull request or issue.
+Hi there, my name is [Aram](https://www.linkedin.com/in/aram-arakelyan-632227282/), and I am a software engineer from Yerevan, Armenia. Currently, I am a university student who continuously self-improves his skills. The most knowledge and skills I have now are in front-end web development. Check my repositories - contributions, issues, and feature requests are welcome! Feel free to open a pull request or issue 🤝.
 
 ### Some projects
 [ComicStack](https://github.com/AramArakelyan777/comicstack-app) - a website tailored for comics enthusiasts
@@ -9,7 +9,7 @@ Check how it works in [this video](https://www.youtube.com/watch?v=37Bf35VhExs).
 - Account management
 - Multilingual support
 
-[WeatherAnywhere](https://github.com/AramArakelyan777/weather-anywhere) - a weather telegram bot
+[WeatherAnywhere](https://github.com/AramArakelyan777/weather-telegram-bot) - a weather telegram bot
 - Get weather updates based on input or location
 - Similar location names suggestions
 - Multilingual support
