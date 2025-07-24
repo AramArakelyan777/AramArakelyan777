@@ -23,7 +23,7 @@ Check how it works in [this video](https://www.youtube.com/watch?v=6J-UAhTTUj8).
  ### Some facts
  - ⚙️ I like getting into fields that are related to my main job and IT in general
  - 👨‍💻 I plan to become a fullstack or backend software engineer
- - 🌳 My interests are sports, cooking and art
+ - 🌳 I like reading, sports, cooking and art
 
 ### Contact
-Feel free to [email](aram777arakelyan@gmail.com) or write me if you have any questions!
+Feel free to email (aram777arakelyan@gmail.com) or write me if you have any questions!
