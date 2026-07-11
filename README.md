@@ -1,29 +1,16 @@
-## Aram Arakelyan's GitHub Profile
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=60&lines=AramArakelyan777" alt="Typing SVG" />
+</p>
 
-Hi there, my name is [Aram](https://www.linkedin.com/in/aram-arakelyan-632227282/), and I am a software engineer from Yerevan, Armenia. Currently, I am a university student who continuously improves his skills. The most knowledge and skills I have now are in front-end web development. Check my repositories - contributions, issues, and feature requests are welcome! Feel free to contact me, open a pull request or issue 🤝.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AramArakelyan777/AramArakelyan777/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-### Some projects
-[ComicStack](https://github.com/AramArakelyan777/comicstack-app) - a website tailored for comics enthusiasts
-Check how it works in [this video](https://www.youtube.com/watch?v=37Bf35VhExs).
-- Read, rate, save and discuss comics and manga
-- Account management
-- Multilingual support
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AramArakelyan777&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AramArakelyan777&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00" />
+</p>
 
-[WeatherAnywhere](https://github.com/AramArakelyan777/weather-telegram-bot) - a weather telegram bot
-- Get weather updates based on input or location
-- Similar location names suggestions
-- Multilingual support
-
-[Snake Game](https://github.com/AramArakelyan777/snake-game) - the famous game in your terminal
-Check how it works in [this video](https://www.youtube.com/watch?v=6J-UAhTTUj8).
-- Play Snake in your terminal
-- Terminal UI with colors
-- Score tracking
-
- ### Some facts
- - ⚙️ I like getting into fields that are related to my main job and IT in general
- - 👨‍💻 I plan to become a fullstack or backend software engineer
- - 🌳 I like reading, sports, walking, cooking and art
-
-### Contact
-Feel free to email (aram777arakelyan@gmail.com) or write me if you have any questions!
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AramArakelyan777&hide_border=true&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="streak stats"/>
+</p>
